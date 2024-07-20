@@ -1,4 +1,4 @@
-# React three starter template
+# React three starter template for Effectual Learning's interactive 3d project
 
 ![alt text](image.png)
 To clone the repository using HTTPS, under "HTTPS", click & copy the code
