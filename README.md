@@ -1,5 +1,6 @@
 # React three starter template
 
+![alt text](image.png)
 git init
 git commit -m "first commit"
 git branch -M main
