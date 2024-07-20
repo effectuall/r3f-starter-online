@@ -17,18 +17,18 @@ the final command opens visual code
 
 ## Below command are for linking to a GitHub Repoditory
 
-git init
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/effectuall/r3f-starter-online.git
-git push -u origin main
+- git init
+- git commit -m "first commit"
+- git branch -M main
+- git remote add origin https://github.com/effectuall/r3f-starter-online.git
+- git push -u origin main
 
 here https://github.com/effectuall/r3f-starter-online.git is the repositor linked to this project
 
 ## adding changes to the repository (MAIN)
 
-git init
-git add .
-git commit -m "[write the details of the changes made in the project here]"
-git push -u origin main 
+- git init
+- git add .
+- git commit -m "[write the details of the changes made in the project here]"
+- git push -u origin main 
 
